@@ -1,51 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2" pages="2">
   <diagram id="yxfVrd6h85L9ZrIPbINy" name="C4 Context">
-    <mxGraphModel dx="868" dy="-41" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="90" dy="-134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Внешний пользователь" c4Type="Person" c4Description="Пациент" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="R0zGVrQ1RB39XHaVDDMc-1">
-          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#6C6477;strokeColor=#4D4D4D;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#6C6477;strokeColor=#4D4D4D;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="1210" y="1030" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Внутренний пользователь" c4Type="Person" c4Description="Сотрудник компании" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="aY-K-uCz-wJkvxZ9aobq-1">
-          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="1190" y="1310" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="cgqclNvudTw4ZlYkpODi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VgrHF568FxhxuX-hZIhI-1" target="cgqclNvudTw4ZlYkpODi-1">
+        <mxCell id="cgqclNvudTw4ZlYkpODi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VgrHF568FxhxuX-hZIhI-1" target="cgqclNvudTw4ZlYkpODi-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cgqclNvudTw4ZlYkpODi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VgrHF568FxhxuX-hZIhI-1" target="cgqclNvudTw4ZlYkpODi-2">
+        <mxCell id="cgqclNvudTw4ZlYkpODi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VgrHF568FxhxuX-hZIhI-1" target="cgqclNvudTw4ZlYkpODi-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="Система Медикаменте" c4Type="Software System" c4Description="Медицинская информационная система" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="VgrHF568FxhxuX-hZIhI-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="1590" y="1220" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Лаборатория" c4Type="Software System" c4Description="Медицинская лаборатория" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="cgqclNvudTw4ZlYkpODi-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="1920" y="1030" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Платежный шлюз" c4Type="Software System" c4Description="Платежный шлюз" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="cgqclNvudTw4ZlYkpODi-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="1920" y="1380" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="cgqclNvudTw4ZlYkpODi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R0zGVrQ1RB39XHaVDDMc-1" target="VgrHF568FxhxuX-hZIhI-1">
+        <mxCell id="cgqclNvudTw4ZlYkpODi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R0zGVrQ1RB39XHaVDDMc-1" target="VgrHF568FxhxuX-hZIhI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cgqclNvudTw4ZlYkpODi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aY-K-uCz-wJkvxZ9aobq-1" target="VgrHF568FxhxuX-hZIhI-1">
+        <mxCell id="cgqclNvudTw4ZlYkpODi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aY-K-uCz-wJkvxZ9aobq-1" target="VgrHF568FxhxuX-hZIhI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="VIbGjUfOmnGHwWxBMIkD" name="C4 Container (To Be)">
-    <mxGraphModel dx="4317" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2428" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,16 +463,16 @@
             <mxGeometry x="1710" y="320" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="EnS8rjkJQRrn7Z084UF6-1" value="&lt;div&gt;&lt;b&gt;Управление жизненным циклом:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Управление жизненным циклом данных реализовано на базе автоматического обновления тегов.&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;2. Архивация и удаление автоматизированы за счет классификации и тегирования данных (archive, old, to_delete):&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp; - Конфиденциальные данные удаляются после истечения нормативных сроков хранения.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp; - Логи хранятся в течение 2 лет для анализа или отладки, после чего подлежат архивированию / удалению.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="EnS8rjkJQRrn7Z084UF6-1" value="&lt;div&gt;&lt;b&gt;Управление жизненным циклом:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Управление жизненным циклом данных реализовано на базе автоматического обновления тегов.&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;2. Архивация и удаление автоматизированы за счет классификации и тегирования данных (archive, old, to_delete):&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp; - Конфиденциальные данные удаляются после истечения нормативных сроков хранения.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp; - Логи хранятся в течение 2 лет для анализа или отладки, после чего подлежат архивированию / удалению.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-710" y="1223.24" width="670" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="EnS8rjkJQRrn7Z084UF6-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="A9Y8YeglAHsILwG2JGGy-1" target="EnS8rjkJQRrn7Z084UF6-1">
+        <mxCell id="EnS8rjkJQRrn7Z084UF6-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="1" source="A9Y8YeglAHsILwG2JGGy-1" target="EnS8rjkJQRrn7Z084UF6-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-130" y="1490" as="sourcePoint" />
             <mxPoint x="-80" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EnS8rjkJQRrn7Z084UF6-4" value="&lt;div&gt;&lt;b&gt;Способы защиты данных:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;1. При хранении:&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Используется HashiCorp Vault для хранения секретов, например ключи шифрования, паролей итд&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;База данных использует шифрование на уровне диска&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;2. При передаче:&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Для взаимодействия между сервисами и с внешними клиентами используются защищённые протоколы (HTTPS)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Шифрование данных при передаче предотвращает их перехват&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;3. При использовании:&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Изолированная структура сервисов снижает риски утечки данных из-за нарушений безопасности в одном из сервисов&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="EnS8rjkJQRrn7Z084UF6-4" value="&lt;div&gt;&lt;b&gt;Способы защиты данных:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;i&gt;1. При хранении:&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Используется HashiCorp Vault для хранения секретов, например ключи шифрования, паролей итд&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;База данных использует шифрование на уровне диска&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;2. При передаче:&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Для взаимодействия между сервисами и с внешними клиентами используются защищённые протоколы (HTTPS)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Шифрование данных при передаче предотвращает их перехват&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;i&gt;3. При использовании:&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Изолированная структура сервисов снижает риски утечки данных из-за нарушений безопасности в одном из сервисов&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-720" y="880" width="670" height="280" as="geometry" />
         </mxCell>
       </root>
